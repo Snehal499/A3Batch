@@ -1,1 +1,5 @@
-Pushing the selenium A3 batch 
+Pushing the selenium A3 batch
+All the methods & class
+All implements & extention of class , Casting of Webdriver type of object  
+TestNG, Select class , Action class , Robot class , 
+SearchContext -> WebDeriver,  TakesScreenshot , JavaScriptExecutor ----> Remote WebDriver class -> ChromeDriver, FirefoxDriver, EdgeDriver
